@@ -18,7 +18,6 @@
 ---
 
 ## 🕹 Contribution Activity
-![Pacman](https://raw.githubusercontent.com/SARTHAK-RAUTELA/SARTHAK-RAUTELA/output/pacman-contribution-graph.svg)
 
 ![Pacman](https://raw.githubusercontent.com/SARTHAK-RAUTELA/SARTHAK-RAUTELA/output/pacman-contribution-graph-dark.svg)
 
