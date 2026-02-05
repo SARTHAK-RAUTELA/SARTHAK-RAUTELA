@@ -2,9 +2,8 @@
 
 Welcome — this repository is my GitHub profile README. The generated Pacman SVG (created by the workflow) is embedded below so it appears on my profile.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SARTHAK-RAUTELA/SARTHAK-RAUTELA/main/assets/pacman.svg" alt="Pacman" width="920" style="max-width:100%;height:auto;"/>
-</p>
+
+![Pacman](https://raw.githubusercontent.com/SARTHAK-RAUTELA/Hexdrift/output/pacman.svg)
 
 ---
 
