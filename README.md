@@ -25,8 +25,8 @@
 ## 💻 Tech Stack
 <p>
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,git,github,vscode,wordpress,figma,blender" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Wix.com_website_logo.svg/512px-Wix.com_website_logo.svg.png" height="48"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,git,github,vscode,wordpress,figma,blender,notion,spline,antigravity" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Wix.com_website_logo.svg" height="48"/>
 </p>
 
 </p>
@@ -37,11 +37,6 @@
 
 - Optimizely Web  
 - Optimizely Edge  
-- Convert A/B Testing  
-- Notion  
-- Spline  
-- Antigravity  
+- Convert A/B Testing   
 
----
 
-💡 Always curious. Always building. Always improving.
