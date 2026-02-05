@@ -1,49 +1,47 @@
-# Hi, I'm SARTHAK-RAUTELA  👋
+# Hi, I'm SARTHAK-RAUTELA 👋  
 
-
-Web Developer | QA | A/B Testing Specialist
-
-
+**Web Developer | QA Engineer | A/B Testing Specialist**
 
 ---
 
-## GitHub Stats
+## 👨‍💻 About Me
 
-![Stats](https://github-readme-stats.vercel.app/api?username=SARTHAK-RAUTELA&show_icons=true&theme=radical)
+💻 MCA completed  
+🌱 Learning every day, one bug at a time  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+✨ Creating bugs since 2024 (and fixing a few too)  
+📚 Currently learning Java, Python, and algorithms while working on new projects  
+🎯 Focused on building strong CS fundamentals and real-world skills  
+
+⚽ In my free time: Football, hiking, and story-driven games  
 
 ---
 
-## Contribution Activity
-
+## 🕹 Contribution Activity
 ![Pacman](https://raw.githubusercontent.com/SARTHAK-RAUTELA/SARTHAK-RAUTELA/output/pacman-contribution-graph.svg)
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SARTHAK-RAUTELA&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-## Tech Stack
-
+## 💻 Tech Stack
+<p>
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,git,github,vscode,wordpress,figma,blender" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Wix.com_website_logo.svg/512px-Wix.com_website_logo.svg.png" height="48"/>
+</p>
+
 </p>
 
 ---
 
-## Tools & Platforms
+## 🧰 Tools & Platforms
 
 - Optimizely Web  
 - Optimizely Edge  
 - Convert A/B Testing  
 - Notion  
 - Spline  
-- Antigravity
-
+- Antigravity  
 
 ---
 
-## Tools & Platforms
-Optimizely • Convert • Notion • Spline • Antigravity
+💡 Always curious. Always building. Always improving.
