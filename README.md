@@ -25,7 +25,6 @@
 
 ## 💻 Tech Stack
 <p>
-<p>
 
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,git,github,vscode,wordpress,figma,blender,notion" />
 
@@ -33,7 +32,6 @@
 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Wix.com_website_logo.svg" height="30"/>
-</p>
 
 </p>
 
