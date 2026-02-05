@@ -9,16 +9,29 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@v3
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Generate pacman SVG
+        uses: Platane/snk@v3
         with:
           github_user_name: SARTHAK-RAUTELA
           outputs: |
             dist/pacman.svg
 
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
+      - name: Move SVG into assets folder
+        run: |
+          mkdir -p assets
+          mv dist/pacman.svg assets/pacman.svg
+
+      - name: Commit and push SVG to default branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/pacman.svg
+          git commit -m "Update generated pacman.svg [skip ci]" || echo "No changes to commit"
+          git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
