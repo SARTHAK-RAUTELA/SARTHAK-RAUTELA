@@ -26,10 +26,11 @@
 ## 💻 Tech Stack
 <p>
 <p>
-<p>
+
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,git,github,vscode,wordpress,figma,blender,notion" />
+
 <img src="[https://antigravity.io/wp-content/uploads/2021/04/antigravity-logo.png](https://camo.githubusercontent.com/f75009956169a4501f8a182f54a3b5b9f506e59df4797fb43f44be66510e34ce/68747470733a2f2f646576656c6f706572732e676f6f676c652e636f6d2f7374617469632f666f6375732f696d616765732f616e7469677261766974792d69636f6e2e706e67)" height="45"/>
-</p>
+
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Wix.com_website_logo.svg" height="30"/>
 </p>
