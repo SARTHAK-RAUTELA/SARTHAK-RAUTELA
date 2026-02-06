@@ -40,8 +40,9 @@
 
 - <img src="https://app.optimizely.com/static/img/rebrand/rebrand-logo.svg" height="45"/> Optimizely Web  
 - <img src="https://app.optimizely.com/static/img/rebrand/rebrand-logo.svg" height="45"/> Optimizely Edge  
-- <img src="https://cdn.prod.website-files.com/62679692b146608383eae599/647842c180747009366165e5_convert-logo-black-transparent.png" alt="A/B Testing Tool" style="background:white;/">
+- <img src="https://cdn.prod.website-files.com/62679692b146608383eae599/647842c180747009366165e5_convert-logo-black-transparent.png" alt="A/B Testing Tool" style="background:white;/"> convert
 - <img src="additionalfiles/Images/hotjar.png" height="45"/> hotjar
+- Trello
 - Spline
 
 ---
