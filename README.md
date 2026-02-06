@@ -38,7 +38,7 @@
 
 ## 🧰 Tools & Platforms
 
-<img src="https://app.optimizely.com/static/img/rebrand/rebrand-logo.svg" height="40"/> <img src="https://skillicons.dev/icons?i=ae,androidstudio,discord,firebase,gmail,nodejs,npm,ps,stackoverflow" /> <img src="additionalfiles/Images/Frame - Copy.png" height="40"/> <img src="additionalfiles/Images/hotjar.png" height="40"/>
+<img src="https://app.optimizely.com/static/img/rebrand/rebrand-logo.svg" height="40"/> <img src="https://skillicons.dev/icons?i=ae,androidstudio,discord,firebase,gmail"/> <img src="additionalfiles/Images/Frame - Copy.png" height="40"/> <img src="https://skillicons.dev/icons?i=nodejs,npm,ps,stackoverflow"/> <img src="additionalfiles/Images/hotjar.png" height="40"/>
 - Trello
 - Spline
 
