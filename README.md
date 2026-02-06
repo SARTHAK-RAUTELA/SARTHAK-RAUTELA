@@ -1,4 +1,4 @@
-# Hi, I'm SARTHAK-RAUTELA 👋  
+# Hi, I'm <img src="https://fontmeme.com/permalink/260206/5a385064.png" alt="SARTHAK RAUTELA" border="0">👋  
 
 **Web Developer | QA Engineer | A/B Testing Specialist**
 
