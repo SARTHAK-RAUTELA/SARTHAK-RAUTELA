@@ -4,7 +4,7 @@
 
 ---
 
-## <img src="https://fontmeme.com/permalink/260206/aaad9a93.png" alt="About Me" border="0">
+## <img src="https://fontmeme.com/permalink/260206/aaad9a93.png" alt="About Me" border="0" height="50">
 
 💻 MCA completed  
 🌱 Learning every day, one bug at a time  
@@ -38,10 +38,7 @@
 
 ## 🧰 Tools & Platforms
 
-- <img src="https://app.optimizely.com/static/img/rebrand/rebrand-logo.svg" height="45"/> Optimizely Web  
-- <img src="https://app.optimizely.com/static/img/rebrand/rebrand-logo.svg" height="45"/> Optimizely Edge  
-- <img src="additionalfiles/Images/Frame - Copy.png"/>
-- <img src="additionalfiles/Images/hotjar.png" height="45"/> hotjar
+<img src="https://app.optimizely.com/static/img/rebrand/rebrand-logo.svg" height="45"/> Optimizely Web, Edge  <img src="additionalfiles/Images/Frame - Copy.png"/> <img src="additionalfiles/Images/hotjar.png" height="45"/>
 - Trello
 - Spline
 
