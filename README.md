@@ -1,4 +1,4 @@
-# <img src="https://fontmeme.com/permalink/260206/46a855e5.png" alt="Hi, I'm" border="0"> <img src="https://fontmeme.com/permalink/260206/5a385064.png" alt="SARTHAK RAUTELA" border="0"> <img src="/additionalfiles/videos/horseman.gif" alt="horse" border="0" height="100"> 
+# <img src="https://fontmeme.com/permalink/260206/46a855e5.png" alt="Hi, I'm" border="0"> <img src="https://fontmeme.com/permalink/260206/5a385064.png" alt="SARTHAK RAUTELA" border="0"> <img src="/additionalfiles/videos/horseman.gif" alt="horse" border="0" height="200"> 
 
 **Web Developer | QA Engineer | A/B Testing Specialist**
 
@@ -40,7 +40,7 @@
 
 - <img src="https://app.optimizely.com/static/img/rebrand/rebrand-logo.svg" height="45"/> Optimizely Web  
 - <img src="https://app.optimizely.com/static/img/rebrand/rebrand-logo.svg" height="45"/> Optimizely Edge  
-- <img src="additionalfiles/Images/Frame.png" style="fill:#fafbff;background:white;"/> convert
+- <img src="additionalfiles/Images/Frame - Copy.png"/>
 - <img src="additionalfiles/Images/hotjar.png" height="45"/> hotjar
 - 
 - Trello
