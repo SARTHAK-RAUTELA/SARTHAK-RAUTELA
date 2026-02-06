@@ -26,7 +26,7 @@
 ## 💻 Tech Stack
 <p>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,git,github,vscode,wordpress,figma,blender,notion" />
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,git,github,vscode,wordpress,figma,blender,notion,sass,webflow" />
 <img src="additionalfiles/Images/wix.png" height="40"/>
 
 <img src="https://camo.githubusercontent.com/f75009956169a4501f8a182f54a3b5b9f506e59df4797fb43f44be66510e34ce/68747470733a2f2f646576656c6f706572732e676f6f676c652e636f6d2f7374617469632f666f6375732f696d616765732f616e7469677261766974792d69636f6e2e706e67" height="40"/>
@@ -38,7 +38,7 @@
 
 ## 🧰 Tools & Platforms
 
-<img src="https://app.optimizely.com/static/img/rebrand/rebrand-logo.svg" height="40"/> <img src="additionalfiles/Images/Frame - Copy.png" height="40"/> <img src="additionalfiles/Images/hotjar.png" height="40"/>
+<img src="https://app.optimizely.com/static/img/rebrand/rebrand-logo.svg" height="40"/> <img src="https://skillicons.dev/icons?i=ae,androidstudio,discord,firebase,gmail,nodejs,npm,ps,stackoverflow" /> <img src="additionalfiles/Images/Frame - Copy.png" height="40"/> <img src="additionalfiles/Images/hotjar.png" height="40"/>
 - Trello
 - Spline
 
