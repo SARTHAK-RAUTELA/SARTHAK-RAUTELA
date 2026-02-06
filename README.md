@@ -1,4 +1,4 @@
-# <img src="https://fontmeme.com/permalink/260206/46a855e5.png" alt="Hi, I'm" border="0"> <img src="https://fontmeme.com/permalink/260206/5a385064.png" alt="SARTHAK RAUTELA" border="0"> <img src="/additionalfiles/videos/horseman.gif" alt="horse" border="0" height="150"> 
+# <img src="https://fontmeme.com/permalink/260206/46a855e5.png" alt="Hi, I'm" border="0"> <img src="https://fontmeme.com/permalink/260206/5a385064.png" alt="SARTHAK RAUTELA" border="0"> 
 
 **Web Developer | QA Engineer | A/B Testing Specialist**
 
@@ -38,7 +38,7 @@
 
 ## 🧰 Tools & Platforms
 
-<img src="https://app.optimizely.com/static/img/rebrand/rebrand-logo.svg" height="40"/> <img src="https://skillicons.dev/icons?i=ae,androidstudio,discord,firebase,gmail"/> <img src="additionalfiles/Images/Frame - Copy.png" height="40"/> <img src="https://skillicons.dev/icons?i=nodejs,npm,ps,stackoverflow"/> <img src="additionalfiles/Images/hotjar.png" height="40"/> <img src="additionalfiles/Images/hotjar_logo.png" height="40"/> <img src="additionalfiles/Images/Optimizely_Logo_Full-Color_Dark_hS40gNw.png" height="40"/> <img src="additionalfiles/Images/trello.png" height="40"/>
+<img src="additionalfiles/Images/Optimizely_Logo_Full-Color_Dark_hS40gNw.png" height="50"/> <img src="https://skillicons.dev/icons?i=ae,androidstudio,discord,firebase,gmail"/> <img src="additionalfiles/Images/Frame - Copy.png" height="40"/> <img src="https://skillicons.dev/icons?i=nodejs,npm,ps,stackoverflow"/> <img src="additionalfiles/Images/hotjar_logo.png" height="30"/>  <img src="additionalfiles/Images/trello.png" height="30"/>
 
 
 ---
