@@ -17,7 +17,7 @@
 
 ---
 
-## 🕹 Contribution Activity
+## 🕹 <img src="https://fontmeme.com/permalink/260206/6ee4dcec.png" alt="pac-man-font" border="0">
 
 ![Pacman](https://raw.githubusercontent.com/SARTHAK-RAUTELA/SARTHAK-RAUTELA/output/pacman-contribution-graph-dark.svg)
 
