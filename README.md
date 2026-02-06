@@ -1,10 +1,10 @@
-# <img src="https://fontmeme.com/permalink/260206/46a855e5.png" alt="Hi, I'm" border="0"> <img src="https://fontmeme.com/permalink/260206/5a385064.png" alt="SARTHAK RAUTELA" border="0"> <img src="/additionalfiles/videos/horseman.gif" alt="horse" border="0" height="200"> 
+# <img src="https://fontmeme.com/permalink/260206/46a855e5.png" alt="Hi, I'm" border="0"> <img src="https://fontmeme.com/permalink/260206/5a385064.png" alt="SARTHAK RAUTELA" border="0"> <img src="/additionalfiles/videos/horseman.gif" alt="horse" border="0" height="150"> 
 
 **Web Developer | QA Engineer | A/B Testing Specialist**
 
 ---
 
-## 👨‍💻 <img src="https://fontmeme.com/permalink/260206/aaad9a93.png" alt="About Me" border="0">
+## <img src="https://fontmeme.com/permalink/260206/aaad9a93.png" alt="About Me" border="0">
 
 💻 MCA completed  
 🌱 Learning every day, one bug at a time  
@@ -27,9 +27,9 @@
 <p>
 
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,git,github,vscode,wordpress,figma,blender,notion" />
-<img src="additionalfiles/Images/wix.png" height="45"/>
+<img src="additionalfiles/Images/wix.png" height="40"/>
 
-<img src="https://camo.githubusercontent.com/f75009956169a4501f8a182f54a3b5b9f506e59df4797fb43f44be66510e34ce/68747470733a2f2f646576656c6f706572732e676f6f676c652e636f6d2f7374617469632f666f6375732f696d616765732f616e7469677261766974792d69636f6e2e706e67" height="45"/>
+<img src="https://camo.githubusercontent.com/f75009956169a4501f8a182f54a3b5b9f506e59df4797fb43f44be66510e34ce/68747470733a2f2f646576656c6f706572732e676f6f676c652e636f6d2f7374617469632f666f6375732f696d616765732f616e7469677261766974792d69636f6e2e706e67" height="40"/>
 
 
 </p>
