@@ -40,7 +40,7 @@
 
 - <img src="https://app.optimizely.com/static/img/rebrand/rebrand-logo.svg" height="45"/> Optimizely Web  
 - <img src="https://app.optimizely.com/static/img/rebrand/rebrand-logo.svg" height="45"/> Optimizely Edge  
-- <img src="additionalfiles/Images/Frame - Copy.png"/> convert
+- <img src="additionalfiles/Images/Frame - Copy.png"/>
 - <img src="additionalfiles/Images/hotjar.png" height="45"/> hotjar
 - 
 - Trello
