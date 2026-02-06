@@ -40,7 +40,7 @@
 
 - <img src="https://app.optimizely.com/static/img/rebrand/rebrand-logo.svg" height="45"/> Optimizely Web  
 - <img src="https://app.optimizely.com/static/img/rebrand/rebrand-logo.svg" height="45"/> Optimizely Edge  
-- <img src="[https://app.optimizely.com/static/img/rebrand/rebrand-logo.svg](https://cdn.prod.website-files.com/62679692b146608383eae599/647842c180747009366165e5_convert-logo-black-transparent.png)" height="45"/>
+- <img src="https://cdn.prod.website-files.com/62679692b146608383eae599/647842c180747009366165e5_convert-logo-black-transparent.png" height="45"/>
 - <img src="additionalfiles/Images/hotjar.png" height="45"/> hotjar
 - Spline
 
