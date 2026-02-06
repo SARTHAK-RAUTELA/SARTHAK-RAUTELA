@@ -40,7 +40,7 @@
 
 - <img src="https://app.optimizely.com/static/img/rebrand/rebrand-logo.svg" height="45"/> Optimizely Web  
 - <img src="https://app.optimizely.com/static/img/rebrand/rebrand-logo.svg" height="45"/> Optimizely Edge  
-- <img src="additionalfiles/Images/svgviewer-output.svg" alt="A/B Testing Tool" style="fill: #fafbff;"/> convert
+- <img src="additionalfiles/Images/Frame.png" style="fill:#fafbff;background:white;"/> convert
 - <img src="additionalfiles/Images/hotjar.png" height="45"/> hotjar
 - 
 - Trello
