@@ -42,7 +42,6 @@
 - <img src="https://app.optimizely.com/static/img/rebrand/rebrand-logo.svg" height="45"/> Optimizely Edge  
 - <img src="additionalfiles/Images/Frame - Copy.png"/>
 - <img src="additionalfiles/Images/hotjar.png" height="45"/> hotjar
-- 
 - Trello
 - Spline
 
@@ -52,9 +51,10 @@
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=SARTHAK-RAUTELA&theme=github-compact&hide_border=true&bg_color=0D1117&color=00F700&line=00F700&point=00F700)
 
-![](https://github-readme-stats.vercel.app/api?username=SARTHAK-RAUTELA&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00F700&icon_color=00F700&text_color=C9D1D9)
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SARTHAK-RAUTELA&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00F700&icon_color=00F700&text_color=C9D1D9)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=SARTHAK-RAUTELA&theme=dark&hide_border=true&background=0D1117&ring=00F700&fire=00F700&currStreakLabel=00F700)
+![](https://streak-stats.demolab.com?user=SARTHAK-RAUTELA&theme=dark&hide_border=true&background=0D1117&ring=00F700&fire=00F700&currStreakLabel=00F700)
+
 
 </div>
 
