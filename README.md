@@ -1,4 +1,4 @@
-# <img src="https://fontmeme.com/permalink/260206/46a855e5.png" alt="Hi, I'm" border="0"> <img src="https://fontmeme.com/permalink/260206/5a385064.png" alt="SARTHAK RAUTELA" border="0"> <img src="/additionalfiles/videos/horseman.gif" alt="horse" border="0"> 
+# <img src="https://fontmeme.com/permalink/260206/46a855e5.png" alt="Hi, I'm" border="0"> <img src="https://fontmeme.com/permalink/260206/5a385064.png" alt="SARTHAK RAUTELA" border="0"> <img src="/additionalfiles/videos/horseman.gif" alt="horse" border="0" height="25"> 
 
 **Web Developer | QA Engineer | A/B Testing Specialist**
 
@@ -17,7 +17,7 @@
 
 ---
 
-## <img src="/additionalfiles/videos/Pacman Loading Animation.gif" alt="packmanloader" border="0"> <img src="https://fontmeme.com/permalink/260206/6ee4dcec.png" alt="pac-man-font" border="0">
+## <img src="/additionalfiles/videos/Pacman Loading Animation.gif" alt="packmanloader" border="0" height="25"> <img src="https://fontmeme.com/permalink/260206/6ee4dcec.png" alt="pac-man-font" border="0">
 
 ![Pacman](https://raw.githubusercontent.com/SARTHAK-RAUTELA/SARTHAK-RAUTELA/output/pacman-contribution-graph-dark.svg)
 
