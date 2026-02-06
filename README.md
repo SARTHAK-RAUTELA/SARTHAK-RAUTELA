@@ -38,7 +38,7 @@
 
 ## 🧰 Tools & Platforms
 
-<img src="https://app.optimizely.com/static/img/rebrand/rebrand-logo.svg" height="35"/> <img src="additionalfiles/Images/Frame - Copy.png" height="35"/> <img src="additionalfiles/Images/hotjar.png" height="35"/>
+<img src="https://app.optimizely.com/static/img/rebrand/rebrand-logo.svg" height="35" fill="white"/> <img src="additionalfiles/Images/Frame - Copy.png" height="35"/> <img src="additionalfiles/Images/hotjar.png" height="35"/>
 - Trello
 - Spline
 
