@@ -4,7 +4,7 @@
 
 ---
 
-## <img src="https://fontmeme.com/permalink/260206/aaad9a93.png" alt="About Me" border="0" width="174">
+## <img src="https://fontmeme.com/permalink/260206/aaad9a93.png" alt="About Me" border="0" width="180">
 
 💻 MCA completed  
 🌱 Learning every day, one bug at a time  
