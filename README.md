@@ -1,4 +1,4 @@
-# <img src="https://fontmeme.com/permalink/260206/46a855e5.png" alt="Hi, I'm" border="0"> <img src="https://fontmeme.com/permalink/260206/5a385064.png" alt="SARTHAK RAUTELA" border="0"> <img align="right" height="200" src="/additionalfiles/videos/From KlickPin CF tumblr_lmurowmUOM1qzpy7ko1_r1_500gif (200×270) _ Juego de autos Imágenes retro Pixel artJan Strydom.gif"  />
+# <img src="https://fontmeme.com/permalink/260206/46a855e5.png" alt="Hi, I'm" border="0"> <img src="https://fontmeme.com/permalink/260206/5a385064.png" alt="SARTHAK RAUTELA" border="0"> <img align="right" height="100" src="/additionalfiles/videos/From KlickPin CF tumblr_lmurowmUOM1qzpy7ko1_r1_500gif (500×370) _ Juego de autos Imágenes retro Pixel artJan Strydom.gif"  />
 
 ###
 
